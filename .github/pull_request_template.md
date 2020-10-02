@@ -4,8 +4,7 @@
 
 ## Description
 
-<!--- Describe your changes in detail -->
-
+<!--- Describe your changes in detail JIRA ticket--> 
 ## Related Issue
 
 <!--- This project only accepts pull requests related to open issues -->
