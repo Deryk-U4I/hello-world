@@ -1,7 +1,7 @@
-## Summary of changes
+** Summary of changes **
 
 <!--- Describe your changes briefly -->
 
-## JIRA Tickets
+** JIRA Tickets **
 
-<!--- List the tickets releated to this pull request -->
+<!--- List the tickets related to this pull request -->
